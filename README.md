@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Cléber Fernando Paixão 👋
 
-- 🔭 Sou estagiário em MOP Tecnologia
+- 🔭 Sou Analista de T.I Suporte em Integrada Coop. Agroindustrial.
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas - Anhembi Morumbi(UAM)
-- 🤔 Procuro mentoria para desenvolver-me como um profissional DEV
+- 🤔 Procuro conexões com DEVS para ajudar a me desenvolver como um profissional DEV
 - 😄 Pronome: ele/dele
 
 <div align="center">
