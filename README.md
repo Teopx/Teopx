@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Cléber Fernando Paixão 👋
 
-- 🔭 Sou Analista de T.I Suporte em Integrada Coop. Agroindustrial.
+- 🔭 Sou Product Owner na Integrada Coop. Agroindustrial.
 - 🌱 Estudando Analise e Desenvolvimento de Sistemas - Anhembi Morumbi(UAM)
 - 🤔 Procuro conexões com DEVS para ajudar a me desenvolver como um profissional DEV
 - 😄 Pronome: ele/dele
