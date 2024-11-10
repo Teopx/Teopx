@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Cléber Fernando Paixão 👋
 
-- 🔭 Profissional de TI, atuando como Product Owner na Integrada Cooperativa Agroindustrial.
+- 🔭 Analista de Sistemas, atuando como Product Owner na Integrada Cooperativa Agroindustrial.
 - 🌱 Formação: Analise e Desenvolvimento de Sistemas - Anhembi Morumbi(UAM)
 - 🌱 Formação: Bacharelado em Direito - Universidade Norte Paranaense (UNINORTE)
 - 🤔 Procuro conexões com DEVS para ajudar a me desenvolver como um profissional DEV
